@@ -5,6 +5,7 @@ struct Process {
 };
 
 int main() {
+    printf("1bm24cs015");
     int n;
     printf("Enter number of processes: ");
     scanf("%d", &n);
@@ -74,4 +75,5 @@ int main() {
     printf("%d\n", time);
 
     return 0;
+
 }
